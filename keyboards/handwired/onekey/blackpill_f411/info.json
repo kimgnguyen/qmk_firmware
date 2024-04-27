@@ -2,8 +2,8 @@
     "keyboard_name": "Onekey Blackpill STM32F411",
     "development_board": "blackpill_f411",
     "matrix_pins": {
-        "cols": ["B0"],
-        "rows": ["A7"]
+        "cols": ["B4", "B5", "B6", "B7", "B8", "B9"],
+        "rows": ["A1", "A2"]
     },
     "backlight": {
         "pin": "A0"
